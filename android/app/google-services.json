@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753383791517",
+    "project_id": "marvelapp-9c80d",
+    "storage_bucket": "marvelapp-9c80d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753383791517:android:412040b06e4e77c4806d74",
+        "android_client_info": {
+          "package_name": "br.com.andrevicente.marvel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753383791517-s0sbvdintpfrgqgav1cu055bsb5ubfh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7E0Fn2IqGfsgJTXL966i8L_rfKiBogO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753383791517-s0sbvdintpfrgqgav1cu055bsb5ubfh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
